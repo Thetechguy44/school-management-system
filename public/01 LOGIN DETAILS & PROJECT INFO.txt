@@ -1,0 +1,29 @@
+**Developed by Yahaya Gana**
+
+
+**Check the Website's Post Page for all the Installation Instructions**
+
+
+---Admin Login Details---
+
+Email   : admin@gmail.com
+Password: 12345678
+
+---Teacher Login Details---
+
+Email   : teacher@gmail.com
+Password: 12345678
+
+---Student Login Details---
+
+Email   : student@gmail.com
+Password: 12345678
+
+---Parents Login Details---
+
+Email   : parent@gmail.com
+Password: 12345678
+
+**Check the Website's Post Page for all the Installation Instructions**
+
+
